@@ -13,7 +13,7 @@ password = "Your password"
 
 #Edit to these arrays to add your own commands
 
-voicecommand = ["chrome","notepad","search","log off","shutdown"]
+voicecommand = ["chrome","notepad","log off","shutdown"]
 shellcommand = ["start Chrome","start Notepad++","shutdown -L","shutdown -h"]
 
 ##########################################
